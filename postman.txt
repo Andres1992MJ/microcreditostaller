@@ -1,0 +1,21 @@
+usuario
+
+{ 
+            "id": 10,
+            "clave": "EsUNSTRING75",
+            "email": "daniela.prueba@pruebas.com"
+            "nombre": "Daniela",
+            "apellido": "Jurado",
+            "cedula": 99999999
+            
+}
+
+
+
+
+credito
+{
+    "usuario": "5d8d571e354e9e3be802ac65",
+    "valor": 99000000,
+    "plazo": 25
+}
